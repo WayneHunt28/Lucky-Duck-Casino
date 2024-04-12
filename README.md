@@ -2,6 +2,7 @@ Module 3 Challenge
 UWA Cybersecurity Bootcamp 2024
 
 A High-Stakes Investigation
+
 You have just been hired by Lucky Duck Casino as a security analyst.
 
 Lucky Duck has lost a significant amount of money on the roulette tables over the last month.
